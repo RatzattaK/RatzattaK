@@ -1,6 +1,6 @@
 ## **Hi, my name is Temmie** 🍕
 
-I'm an independant programmer from Belarus. Currently I'm learning to code and most of my applications are not public because they serve no purpose for anyone other than me.
+I'm an independent programmer from Belarus. Currently I'm learning to code and most of my applications are not public because they serve no purpose for anyone other than me.
 
 Things that I've already made:
  - Basic console application for working with databases
