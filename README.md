@@ -2,7 +2,7 @@
 
 I'm an independent programmer from Belarus. Currently I'm learning to code and most of my applications are not public because they serve no purpose for anyone other than me.
 
-## Things that I've already made:
+## Things that I've already made
  - Basic console application for working with databases
  - Different website layouts
  - A [Discord](https://discord.com) bot for moderating communities in Russian
