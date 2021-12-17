@@ -6,19 +6,20 @@ I'm an independent programmer from Belarus. Currently I'm learning to code and m
  - Basic console application for working with databases
  - Different website layouts
  - A [Discord](https://discord.com) bot for moderating communities in Russian
+ - OpenGL based Clicker game using [freeglut](http://freeglut.sourceforge.net)
 
 Once I'm confident enough in some of my WIPs, they're going to become public (like this Discord bot mentioned above). So stay tuned *I guess*.
 
 ## Contributions
 - [WAPITIS](https://github.com/TonSharp/WAPITIS): Open Source Framework for WinAPI
 
-## Languages I use
+## Languages and Technologies
 ![C++](https://img.shields.io/badge/-C++-000033?style=for-the-badge&logo=C%2b%2b&logoColor=659ad2)
-![HTML](https://img.shields.io/badge/-HTML-000033?style=for-the-badge&logo=HTML5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/-CSS-000033?style=for-the-badge&logo=CSS3&logoColor=3399ff)
+![C#](https://img.shields.io/badge/-C_Sharp-000033?style=for-the-badge&logo=csharp&logoColor=53AC56)
+![.NET](https://img.shields.io/badge/-.net-000033?style=for-the-badge&logo=dotnet&logoColor=violet)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000033?style=for-the-badge&logo=JavaScript&logoColor=F7DF1E)
 
-Later on I plan on learning more languages that focus on Software and API development as well as gamedev.
+Currently I'm studying C# (.NET). Later on I plan on learning more stuff about Software and API development as well as gamedev.
 
 ## My Socials
 [![VK](https://img.shields.io/badge/-VK-000033?style=for-the-badge&logo=VK&logoColor=2787f5)](https://vk.com/stepmanofficial)
