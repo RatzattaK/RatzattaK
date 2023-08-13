@@ -22,9 +22,9 @@ Once I'm confident enough in some of my WIPs, they might become public (like thi
 Currently I'm studying C# (.NET) and Unity. Later on I plan on learning more stuff about Software and API development as well as gamedev.
 
 ## My Socials
-[![VK](https://img.shields.io/badge/-VK-000033?style=for-the-badge&logo=VK&logoColor=2787f5)](https://vk.com/stepmanofficial)
-[![Instagram](https://img.shields.io/badge/-Instagram-000033?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/lyubimy.chai/)
+[![VK](https://img.shields.io/badge/-VK-000033?style=for-the-badge&logo=VK&logoColor=2787f5)](https://vk.com/ratzattak)
+[![Instagram](https://img.shields.io/badge/-Instagram-000033?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/lyubimy.chai)
 [![YouTube](https://img.shields.io/badge/-YouTube-000033?style=for-the-badge&logo=YouTube&logoColor=FF0000)](https://www.youtube.com/channel/UCe4rvu4SamkPXW9OlWCc_kg)
 
 ###### *I know there's little to nothing, but look how good this card looks lol*
-[![StepMan's GitHub stats](https://github-readme-stats.vercel.app/api?username=stepmanofficial&custom_title=StepMan's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark&bg_color=0,000033,2d2d75&icon_color=eff1f3)](https://github.com/anuraghazra/github-readme-stats)
+[![RatzattaK's GitHub stats](https://github-readme-stats.vercel.app/api?username=ratzattak&custom_title=RatzattaK's%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=dark&bg_color=0,000033,2d2d75&icon_color=eff1f3)](https://github.com/anuraghazra/github-readme-stats)
